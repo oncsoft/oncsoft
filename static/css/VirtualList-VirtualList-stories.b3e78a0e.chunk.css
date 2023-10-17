@@ -1,0 +1,21 @@
+.VirtualList_virtualListContainer__AEE6R {
+  height: var(--containerHeight);
+  overflow: auto;
+  background: var(--primaryColor);
+  border-radius: 0.5rem;
+  padding: 0.5rem;
+  color: white;
+}
+
+.VirtualList_content__X3\+rv {
+  height: var(--contentHeight);
+}
+
+.VirtualList_item__NxIoX {
+  height: var(--itemHeight);
+  display: flex;
+  align-items: center;
+}
+
+
+/*# sourceMappingURL=VirtualList-VirtualList-stories.b3e78a0e.chunk.css.map*/

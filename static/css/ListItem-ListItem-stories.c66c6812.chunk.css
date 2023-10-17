@@ -1,0 +1,63 @@
+.ListItem_listItem__POSh4 {
+  display: flex;
+  align-items: flex-start;
+  padding: 0.5rem;
+  border-bottom: 2px solid var(--borderColor);
+  background-color: var(--primaryColor);
+  color: white;
+  transition: 0.3sn ease;
+  cursor: pointer;
+}
+
+.ListItem_listItem__POSh4:hover {
+  background-color: var(--secondaryColor);
+}
+
+.Grid_container__ymXVK {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  flex: 1 1;
+  justify-content: space-between;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  gap: calc(var(--spacing) * 0.04rem);
+}
+
+.Grid_gridItem__Y5opQ {
+  display: flex;
+  flex-basis: calc(var(--item) * 100% / 12 - 10px - var(--spacing) * 0.04rem);
+  justify-content: var(--justifyContent);
+  align-items: var(--alignItems);
+}
+
+.Grid_row__ql-JB {
+  flex-direction: row;
+}
+
+.Grid_column__bbAHN {
+  flex-direction: column;
+  gap: initial !important;
+  justify-content: var(--justifyContent);
+  align-items: var(--alignItems);
+}
+
+.Grid_mbt__oGfkL {
+  margin-bottom: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+.List_listContainer__FLbHU {
+  background: var(--primaryColor);
+  box-shadow: 0 0 1rem var(--shadowColor);
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+.List_listContainer__FLbHU .List_listItem__rc4Wj:last-child {
+  border-bottom: 0 !important;
+  border-bottom: initial !important;
+}
+
+
+/*# sourceMappingURL=ListItem-ListItem-stories.c66c6812.chunk.css.map*/
