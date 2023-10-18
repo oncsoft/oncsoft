@@ -1,6 +1,9 @@
 .InfiniteScroll_infiniteScrollContainer__6-4IN {
   background-color: var(--secondaryColor);
   color: white;
+  width: auto;
+  min-width: 50vw;
+  overflow: auto;
 }
 .InfiniteScroll_child__2Te\+9 {
   padding: 0.5rem;
@@ -255,4 +258,4 @@
 }
 
 
-/*# sourceMappingURL=InfiniteScroll-InfiniteScroll-stories.dd7ebc57.chunk.css.map*/
+/*# sourceMappingURL=InfiniteScroll-InfiniteScroll-stories.b4b49521.chunk.css.map*/
