@@ -23,6 +23,12 @@
   background-color: var(--secondaryColor);
 }
 
+.Button_transparent__33FBX {
+  background-color: transparent;
+  color: var(--secondaryColor);
+  box-shadow: none;
+}
+
 .Button_rounded__\+9j5O {
   border-radius: 1.25rem;
 }
@@ -39,4 +45,4 @@
 }
 
 
-/*# sourceMappingURL=Button-Button-stories.e8fc1fc1.chunk.css.map*/
+/*# sourceMappingURL=Button-Button-stories.d79f1145.chunk.css.map*/

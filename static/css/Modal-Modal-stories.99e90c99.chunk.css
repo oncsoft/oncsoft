@@ -50,6 +50,12 @@
   background-color: var(--secondaryColor);
 }
 
+.Button_transparent__33FBX {
+  background-color: transparent;
+  color: var(--secondaryColor);
+  box-shadow: none;
+}
+
 .Button_rounded__\+9j5O {
   border-radius: 1.25rem;
 }
@@ -171,4 +177,4 @@
 }
 
 
-/*# sourceMappingURL=Modal-Modal-stories.3acf0e52.chunk.css.map*/
+/*# sourceMappingURL=Modal-Modal-stories.99e90c99.chunk.css.map*/
